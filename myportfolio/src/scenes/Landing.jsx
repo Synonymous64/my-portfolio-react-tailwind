@@ -1,4 +1,4 @@
-// import SocialMediaIcons from "../components/SocialMediaIcons";
+import SocialMediaIcons from "../components/SocialMediaIcons";
 import useMediaQuery from "../hooks/useMediaQuery";
 import { motion } from "framer-motion";
 import AnchorLink from "react-anchor-link-smooth-scroll";
@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            A Passionate Technophile who also happens to be a IT Graduate. You will usually see cats dancing to the beautiful tunes composed by me.
+            A Passionate Technophile who also happens to be a IT Graduate. You will usually see cats dancing to the beautiful tunes composed by him.
           </p>
         </motion.div>
 
@@ -102,7 +102,7 @@ const Landing = ({ setSelectedPage }) => {
             visible: { opacity: 1, x: 0 },
           }}
         >
-          {/* <SocialMediaIcons /> */}
+          <SocialMediaIcons />
         </motion.div>
       </div>
     </section>
