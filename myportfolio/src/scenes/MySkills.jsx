@@ -143,9 +143,9 @@ const MySkills = () => {
                         <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
                     </div>
                     <p className="mt-5">
-                        Built Projects on various technologies including React, Nodejs, React-Native, MongoDB and Sanity on backend extensively.
+                        I build Projects on various technologies including React, Nodejs, React-Native, MongoDB and Sanity on backend extensively.
                         Did my internship in IT-NETWORKZ as saleforce intern.
-                        I would aim to prove that I am an experienced and valuable candidate for the software developer role.
+                        I am determined to prove that I am an experienced and valuable candidate for the software developer role.
                     </p>
                 </motion.div>
 
