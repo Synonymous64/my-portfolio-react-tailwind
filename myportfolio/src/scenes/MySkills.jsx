@@ -143,9 +143,9 @@ const MySkills = () => {
                         <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
                     </div>
                     <p className="mt-5">
-                        A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-                        morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-                        odio sit sagittis,
+                        Built Projects on various technologies including React, Nodejs, React-Native, MongoDB and Sanity on backend extensively.
+                        Did my internship in IT-NETWORKZ as saleforce intern.
+                        I would aim to prove that I am an experienced and valuable candidate for the software developer role.
                     </p>
                 </motion.div>
 
@@ -171,9 +171,7 @@ const MySkills = () => {
                         <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
                     </div>
                     <p className="mt-5">
-                        A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-                        morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-                        odio sit sagittis,
+                        I aim to convey my enthusiasm for innovation and my passion for using technology to solve problems in creative and effective ways. I always look for new ways to improve and innovate.
                     </p>
                 </motion.div>
 
@@ -199,9 +197,7 @@ const MySkills = () => {
                         <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
                     </div>
                     <p className="mt-5">
-                        A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-                        morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-                        odio sit sagittis,
+                        Demonstrating my Creativity through this portfolio. You will find me bringing new ideas and insights to the table.I focus on demonstrating my enthusiasm, passion, and creativity for software development through tangible examples and thoughtful questions
                     </p>
                 </motion.div>
             </div>
