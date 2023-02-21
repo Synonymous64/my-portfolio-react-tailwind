@@ -80,7 +80,7 @@ const Projects = () => {
                         BEAUTIFUL USER INTERFACES
                     </div>
                     <Project title="Blog Site" liveLink={"https://praj-blogs.vercel.app/"} githubLink={"https://github.com/Synonymous64/project-blog/tree/master/StarterFiles/web"} />
-                    <Project title="Netflix Clone" liveLink={"https://netflix-clone-2023.vercel.app/"} githubLink={"https://github.com/Synonymous64/mern-movie-app-2023"} />
+                    <Project title="Netflix Clone" liveLink={"https://bingjoy-movies.vercel.app/"} githubLink={"https://github.com/Synonymous64/mern-movie-app-2023"} />
 
                     {/* ROW 2 */}
                     <Project title="DALL-E CLONE" liveLink={"https://ai-image-generator-mern.vercel.app/"} githubLink={"https://github.com/Synonymous64/ai-image-generator-mern/tree/master/client"} />
