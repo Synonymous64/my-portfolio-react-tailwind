@@ -84,7 +84,7 @@ const Projects = () => {
 
                     {/* ROW 2 */}
                     <Project title="DALL-E CLONE" liveLink={"https://ai-image-generator-mern.vercel.app/"} githubLink={"https://github.com/Synonymous64/ai-image-generator-mern/tree/master/client"} />
-                    <Project title="Chat-GPT CLONE" liveLink={"https://open-ai-chat-gpt-clone-web.vercel.app/"} githubLink={"https://github.com/Synonymous64/OpenAI-ChatGPT-CLONE-/tree/master/client"} />
+                    <Project title="Metaverse-Product" liveLink={"https://metverse-product-website.vercel.app/"} githubLink={"https://github.com/Synonymous64/Product-Website-3D"} />
                     <Project title="Social Media APP" liveLink={"https://praj-social-app.netlify.app/"} githubLink={"https://github.com/Synonymous64/special-journey-reactJS/tree/master/Be-Social"} />
 
                     {/* ROW 3 */}
